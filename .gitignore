@@ -29,3 +29,13 @@ Data/*.csv
 # Temporary files
 *.tmp
 *.log
+
+# Large prediction outputs
+results/predictions.csv
+results/prediction_analysis.csv
+results/deployment_report.csv
+results/isolation_predictions.csv
+
+# Large datasets
+Data/raw/*.csv
+Data/processed/*.csv
