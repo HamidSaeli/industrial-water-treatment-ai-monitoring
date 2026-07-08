@@ -39,3 +39,7 @@ results/isolation_predictions.csv
 # Large datasets
 Data/raw/*.csv
 Data/processed/*.csv
+
+# Industrial dataset files
+Data/raw/*.csv
+Data/processed/*.csv
