@@ -1,0 +1,7 @@
+Metric,Value
+Total Samples,288344.0
+Predicted Attack,11148.0
+Predicted Normal,277196.0
+Average Probability,0.04901817526397265
+False Positive,230.0
+False Negative,6.0

@@ -1,0 +1,2 @@
+Model,Samples,Predicted Anomalies,Anomaly Rate
+Isolation Forest,288344,14357,0.04979122159642649
